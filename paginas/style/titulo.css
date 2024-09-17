@@ -7,3 +7,14 @@ a{
     border-radius: 10px;
     padding: 5px;
 }
+footer{
+    color: brown;
+    font-size: 20px;
+    margin: 10px;
+    border-radius: 10px;
+    padding: 5px;
+}
+.paginas{
+    display: flex;
+    justify-content: space-around;
+}
