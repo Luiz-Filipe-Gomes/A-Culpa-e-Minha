@@ -14,26 +14,23 @@ main{
     margin: auto;
 }
 @media screen and (max-width: 700px){
-    .titulo{
+    h1{
         flex-wrap: wrap;
         justify-content: center;
     }
-    .sinopse {
+    p {
         width: auto;
     }
     main{
         width: auto;
     }
 }
-.titulo{
+h1{
     text-align: center;
     color:#F39209;
     text-shadow: 1px 1px 1px #8a5408d0;
 }
-h2{
-    color:#125189
-}
-.sinopse{
+p{
     padding: 10px;
     text-align: justify;
 }
